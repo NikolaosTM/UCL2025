@@ -1,0 +1,37 @@
+standing,team,name,GP,W,D,L,F,A,GD,P
+1,LIV,Liverpool,8,7,0,1,17,5,12,21
+2,BAR,Barcelona,8,6,1,1,28,13,15,19
+3,ARS,Arsenal,8,6,1,1,16,3,13,19
+4,INT,Internazionale,8,6,1,1,11,1,10,19
+5,ATM,Atlético Madrid,8,6,0,2,20,12,8,18
+6,B04,Bayer Leverkusen,8,5,1,2,15,7,8,16
+7,LILL,Lille,8,5,1,2,17,10,7,16
+8,AVL,Aston Villa,8,5,1,2,13,6,7,16
+9,ATA,Atalanta,8,4,3,1,20,6,14,15
+10,DOR,Borussia Dortmund,8,5,0,3,22,12,10,15
+11,RMA,Real Madrid,8,5,0,3,20,12,8,15
+12,MUN,Bayern Munich,8,5,0,3,20,12,8,15
+13,MIL,AC Milan,8,5,0,3,14,11,3,15
+14,PSV,PSV Eindhoven,8,4,2,2,16,12,4,14
+15,PSG,Paris Saint-Germain,8,4,1,3,14,9,5,13
+16,BEN,Benfica,8,4,1,3,16,12,4,13
+17,MON,AS Monaco,8,4,1,3,13,13,0,13
+18,BRE,Brest,8,4,1,3,10,11,-1,13
+19,FEY,Feyenoord Rotterdam,8,4,1,3,18,21,-3,13
+20,JUV,Juventus,8,3,3,2,9,7,2,12
+21,CEL,Celtic,8,3,3,2,13,14,-1,12
+22,MNC,Manchester City,8,3,2,3,18,14,4,11
+23,SCP,Sporting CP,8,3,2,3,13,12,1,11
+24,BRU,Club Brugge,8,3,2,3,7,11,-4,11
+25,DZG,Dinamo Zagreb,8,3,2,3,12,19,-7,11
+26,VFB,VfB Stuttgart,8,3,1,4,13,17,-4,10
+27,SHK,Shakhtar Donetsk,8,2,1,5,8,16,-8,7
+28,BOL,Bologna,8,1,3,4,4,9,-5,6
+29,RSB,Red Star Belgrade,8,2,0,6,13,22,-9,6
+30,STG,SK Sturm Graz,8,2,0,6,5,14,-9,6
+31,SPP,Sparta Prague,8,1,1,6,7,21,-14,4
+32,RBL,RB Leipzig,8,1,0,7,8,15,-7,3
+33,GIR,Girona,8,1,0,7,5,13,-8,3
+34,SLZ,RB Salzburg,8,1,0,7,5,27,-22,3
+35,SLB,Slovan Bratislava,8,0,0,8,7,27,-20,0
+36,YB,Young Boys,8,0,0,8,3,24,-21,0

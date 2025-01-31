@@ -1,0 +1,288 @@
+19/09: Atalanta 0-0 Arsenal
+01/10: Arsenal 2-0 Paris Saint-Germain
+22/10: Arsenal 1-0 Shakhtar Donetsk
+06/11: Inter 1-0 Arsenal
+26/11: Sporting CP 1-5 Arsenal
+11/12: Arsenal 3-0 Monaco
+22/01: Arsenal 3-0 GNK Dinamo
+29/01: Girona 1-2 Arsenal
+17/09: Young Boys 0-3 Aston Villa
+02/10: Aston Villa 1-0 Bayern München
+22/10: Aston Villa 2-0 Bologna 
+06/11: Club Brugge 1-0 Aston Villa
+27/11: Aston Villa 0-0 Juventus
+10/12: Leipzig 2-3 Aston Villa
+21/01: Monaco 1-0 Aston Villa
+29/01: Aston Villa 4-2 Celtic
+19/09: Atalanta 0-0 Arsenal
+02/10: Shakhtar Donetsk 0-3 Atalanta
+23/10: Atalanta 0-0 Celtic
+06/11: Stuttgart 0-2 Atalanta
+26/11: Young Boys 1-6 Atalanta
+10/12: Atalanta 2-3 Real Madrid
+21/01: Atalanta 5-0 Sturm Graz
+29/01: Barcelona 2-2 Atalanta
+19/09: Atlético de Madrid 2-1 Leipzig
+02/10: Benfica 4-0 Atlético de Madrid
+23/10: Atlético de Madrid 1-3 Lille
+06/11: Paris Saint-Germain 1-2 Atlético de Madrid
+26/11: Sparta Praha 0-6 Atlético de Madrid
+11/12: Atlético de Madrid 3-1 Slovan Bratislava
+21/01: Atlético de Madrid 2-1 Bayer Leverkusen
+29/01: Salzburg 1-4 Atlético de Madrid
+19/09: Monaco 2-1 Barcelona
+01/10: Barcelona 5-0 Young Boys
+23/10: Barcelona 4-1 Bayern München
+06/11: Crvena Zvezda 2-5 Barcelona
+26/11: Barcelona 3-0 Brest
+11/12: Borussia Dortmund 2-3 Barcelona
+21/01: Benfica 4-5 Barcelona
+29/01: Barcelona 2-2 Atalanta
+17/09: Bayern München 9-2 GNK Dinamo
+02/10: Aston Villa 1-0 Bayern München
+23/10: Barcelona 4-1 Bayern München
+06/11: Bayern München 1-0 Benfica
+26/11: Bayern München 1-0 Paris Saint-Germain
+10/12: Shakhtar Donetsk 1-5 Bayern München
+22/01: Feyenoord 3-0 Bayern München
+29/01: Bayern München 3-1 Slovan Bratislava
+19/09: Crvena Zvezda 1-2 Benfica
+02/10: Benfica 4-0 Atlético de Madrid
+23/10: Benfica 1-3 Feyenoord
+06/11: Bayern München 1-0 Benfica
+27/11: Monaco 2-3 Benfica
+11/12: Benfica 0-0 Bologna
+21/01: Benfica 4-5 Barcelona
+29/01: Juventus 0-2 Benfica
+18/09: Bologna 0-0 Shakhtar Donetsk
+02/10: Liverpool 2-0 Bologna
+22/10: Aston Villa 2-0 Bologna
+05/11: Bologna 0-1 Monaco
+27/11: Bologna 1-2 Lille
+11/12: Benfica 0-0 Bologna
+21/01: Bologna 2-1 Borussia Dortmund
+29/01: Sporting CP 1-1 Bologna
+19/09: Brest 2-1 Sturm Graz
+01/10: Salzburg 0-4 Brest
+23/10: Brest 1-1 Bayer Leverkusen
+06/11: Sparta Praha 1-2 Brest
+26/11: Barcelona 3-0 Brest
+10/12: Brest 1-0 PSV Eindhoven
+22/01: Shakhtar Donetsk 2-0 Brest
+29/01: Brest 0-3 Real Madrid
+18/09: Celtic 5-1 Slovan Bratislava
+01/10: Borussia Dortmund 7-1 Celtic
+23/10: Atalanta 0-0 Celtic
+05/11: Celtic 3-1 Leipzig
+27/11: Celtic 1-1 Club Brugge
+10/12: GNK Dinamo 0-0 Celtic
+22/01: Celtic 1-0 Young Boys
+29/01: Aston Villa 4-2 Celtic
+18/09: Club Brugge 0-3 Borussia Dortmund
+02/10: Sturm Graz 0-1 Club Brugge
+22/10: AC Milan 3-1 Club Brugge
+06/11: Club Brugge 1-0 Aston Villa
+27/11: Celtic 1-1 Club Brugge
+10/12: Club Brugge 2-1 Sporting CP
+21/01: Club Brugge 0-0 Juventus
+29/01: Manchester City 3-1 Club Brugge 
+19/09: Crvena Zvezda 1-2 Benfica
+01/10: Inter 4-0 Crvena Zvezda
+22/10: Monaco 5-1 Crvena Zvezda
+06/11: Crvena Zvezda 2-5 Barcelona
+27/11: Crvena Zvezda 5-1 Stuttgart
+11/12: AC Milan 2-1 Crvena Zvezda
+21/01: Crvena Zvezda 2-3 PSV Eindhoven
+29/01: Young Boys 0-1 Crvena Zvezda
+18/09: Club Brugge 0-3 Borussia Dortmund
+01/10: Borussia Dortmund 7-1 Celtic
+22/10: Real Madrid 5-2 Borussia Dortmund
+05/11: Borussia Dortmund 1-0 Sturm Graz
+27/11: GNK Dinamo 0-3 Borussia Dortmund
+11/12: Borussia Dortmund 2-3 Barcelona
+21/01: Bologna 2-1 Borussia Dortmund
+29/01: Borussia Dortmund 3-1 Shakhtar Donetsk
+19/09: Feyenoord 0-4 Bayer Leverkusen
+02/10: Girona 2-3 Feyenoord
+23/10: Benfica 1-3 Feyenoord
+06/11: Feyenoord 1-3 Salzburg
+26/11: Manchester City 3-3 Feyenoord
+11/12: Feyenoord 4-2 Sparta Praha
+22/01: Feyenoord 3-0 Bayern München
+29/01: Lille 6-1 Feyenoord
+18/09: Paris Saint-Germain 1-0 Girona
+02/10: Girona 2-3 Feyenoord
+22/10: Girona 2-0 Slovan Bratislava
+05/11: PSV Eindhoven 4-0 Girona
+27/11: Sturm Graz 1-0 Girona
+10/12: Girona 0-1 Liverpool
+22/01: AC Milan 1-0 Girona
+29/01: Girona 1-2 Arsenal
+17/09: Bayern München 9-2 GNK Dinamo
+02/10: GNK Dinamo 2-2 Monaco
+23/10: Salzburg 0-2 GNK Dinamo
+05/11: Slovan Bratislava 1-4 GNK Dinamo
+27/11: GNK Dinamo 0-3 Borussia Dortmund
+10/12: GNK Dinamo 0-0 Celtic
+22/01: Arsenal 3-0 GNK Dinamo
+29/01: GNK Dinamo 2-1 AC Milan
+18/09: Manchester City 0-0 Inter
+01/10: Inter 4-0 Crvena Zvezda
+23/10: Young Boys 0-1 Inter
+06/11: Inter 1-0 Arsenal
+26/11: Inter 1-0 Leipzig
+10/12: Bayer Leverkusen 1-0 Inter
+22/01: Sparta Praha 0-1 Inter
+29/01: Inter 3-0 Monaco
+17/09: Juventus 3-1 PSV Eindhoven
+02/10: Leipzig 2-3 Juventus
+22/10: Juventus 0-1 Stuttgart
+05/11: Lille 1-1 Juventus
+27/11: Aston Villa 0-0 Juventus
+11/12: Juventus 2-0 Manchester City
+21/01: Club Brugge 0-0 Juventus
+29/01: Juventus 0-2 Benfica
+19/09: Atlético de Madrid 2-1 Leipzig
+02/10: Leipzig 2-3 Juventus
+23/10: Leipzig 0-1 Liverpool
+05/11: Celtic 3-1 Leipzig
+26/11: Inter 1-0 Leipzig
+10/12: Leipzig 2-3 Aston Villa
+22/01: Leipzig 2-1 Sporting CP
+29/01: Sturm Graz 1-0 Leipzig
+19/09: Feyenoord 0-4 Bayer Leverkusen
+01/10: Bayer Leverkusen 1-0 AC Milan
+23/10: Brest 1-1 Bayer Leverkusen
+05/11: Liverpool 4-0 Bayer Leverkusen
+26/11: Bayer Leverkusen 5-0 Salzburg
+10/12: Bayer Leverkusen 1-0 Inter
+21/01: Atlético de Madrid 2-1 Bayer Leverkusen
+29/01: Bayer Leverkusen 2-0 Sparta Praha
+17/09: Sporting CP 2-0 Lille
+02/10: Lille 1-0 Real Madrid
+23/10: Atlético de Madrid 1-3 Lille
+05/11: Lille 1-1 Juventus
+27/11: Bologna 1-2 Lille
+11/12: Lille 3-2 Sturm Graz
+21/01: Liverpool 2-1 Lille
+29/01: Lille 6-1 Feyenoord
+17/09: AC Milan 1-3 Liverpool
+02/10: Liverpool 2-0 Bologna
+23/10: Leipzig 0-1 Liverpool
+05/11: Liverpool 4-0 Bayer Leverkusen
+27/11: Liverpool 2-0 Real Madrid
+10/12: Girona 0-1 Liverpool
+21/01: Liverpool 2-1 Lille 
+29/01: PSV Eindhoven 3-2 Liverpool
+18/09: Manchester City 0-0 Inter
+01/10: Slovan Bratislava 0-4 Manchester City
+23/10: Manchester City 5-0 Sparta Praha
+05/11: Sporting CP 4-1 Manchester City
+26/11: Manchester City 3-3 Feyenoord
+11/12: Juventus 2-0 Manchester City
+22/01: Paris Saint-Germain 4-2 Manchester City
+29/01: Manchester City 3-1 Club Brugge
+17/09: AC Milan 1-3 Liverpool
+01/10: Bayer Leverkusen 1-0 AC Milan
+22/10: AC Milan 3-1 Club Brugge
+05/11: Real Madrid 1-3 AC Milan
+26/11: Slovan Bratislava 2-3 AC Milan
+11/12: AC Milan 2-1 Crvena Zvezda
+22/01: AC Milan 1-0 Girona
+29/01: GNK Dinamo 2-1 AC Milan
+19/09: Monaco 2-1 Barcelona
+02/10: GNK Dinamo 2-2 Monaco
+22/10: Monaco 5-1 Crvena Zvezda
+05/11: Bologna 0-1 Monaco
+27/11: Monaco 2-3 Benfica
+11/12: Arsenal 3-0 Monaco
+21/01: Monaco 1-0 Aston Villa
+29/01: Inter 3-0 Monaco
+18/09: Paris Saint-Germain 1-0 Girona
+01/10: Arsenal 2-0 Paris Saint-Germain
+22/10: Paris Saint-Germain 1-1 PSV Eindhoven
+06/11: Paris Saint-Germain 1-2 Atlético de Madrid
+26/11: Bayern München 1-0 Paris Saint-Germain
+10/12: Salzburg 0-3 Paris Saint-Germain
+22/01: Paris Saint-Germain 4-2 Manchester City
+29/01: Stuttgart 1-4 Paris Saint-Germain
+17/09: Juventus 3-1 PSV Eindhoven
+01/10: PSV Eindhoven 1-1 Sporting CP
+22/10: Paris Saint-Germain 1-1 PSV Eindhoven
+05/11: PSV Eindhoven 4-0 Girona
+27/11: PSV Eindhoven 3-2 Shakhtar Donetsk
+10/12: Brest 1-0 PSV Eindhoven
+21/01: Crvena Zvezda 2-3 PSV Eindhoven
+29/01: PSV Eindhoven 3-2 Liverpool
+17/09: Real Madrid 3-1 Stuttgart
+02/10: Lille 1-0 Real Madrid
+22/10: Real Madrid 5-2 Borussia Dortmund
+05/11: Real Madrid 1-3 Milan
+27/11: Liverpool 2-0 Real Madrid
+10/12: Atalanta 2-3 Real Madrid
+22/01: Real Madrid 5-1 Salzburg
+29/01: Brest 0-3 Real Madrid
+18/09: Sparta Praha 3-0 Salzburg
+01/10: Salzburg 0-4 Brest
+23/10: Salzburg 0-2 GNK Dinamo
+06/11: Feyenoord 1-3 Salzburg
+26/11: Bayer Leverkusen 5-0 Salzburg
+10/12: Salzburg 0-3 Paris Saint-Germain
+22/01: Real Madrid 5-1 Salzburg
+29/01: Salzburg 1-4 Atlético de Madrid
+18/09: Bologna 0-0 Shakhtar Donetsk
+02/10: Shakhtar Donetsk 0-3 Atalanta
+22/10: Arsenal 1-0 Shakhtar Donetsk
+06/11: Shakhtar Donetsk 2-1 Young Boys
+27/11: PSV Eindhoven 3-2 Shakhtar Donetsk
+10/12: Shakhtar Donetsk 1-5 Bayern München
+22/01: Shakhtar Donetsk 2-0 Brest
+29/01: Borussia Dortmund 3-1 Shakhtar Donetsk
+18/09: Celtic 5-1 Slovan Bratislava
+01/10: Slovan Bratislava 0-4 Manchester City
+22/10: Girona 2-0 Slovan Bratislava
+05/11: Slovan Bratislava 1-4 GNK Dinamo
+26/11: Slovan Bratislava 2-3 AC Milan
+11/12: Atlético de Madrid 3-1 Slovan Bratislava
+21/01: Slovan Bratislava 1-3 Stuttgart
+29/01: Bayern München 3-1 Slovan Bratislava
+18/09: Sparta Praha 3-0 Salzburg
+01/10: Stuttgart 1-1 Sparta Praha
+23/10: Manchester City 5-0 Sparta Praha
+06/11: Sparta Praha 1-2 Brest
+26/11: Sparta Praha 0-6 Atlético de Madrid
+11/12: Feyenoord 4-2 Sparta Praha
+22/01: Sparta Praha 0-1 Inter
+29/01: Bayer Leverkusen 2-0 Sparta Praha
+17/09: Sporting CP 2-0 Lille
+01/10: PSV Eindhoven 1-1 Sporting CP
+22/10: Sturm Graz 0-2 Sporting CP
+05/11: Sporting CP 4-1 Manchester City
+26/11: Sporting CP 1-5 Arsenal
+10/12: Club Brugge 2-1 Sporting CP
+22/01: Leipzig 2-1 Sporting CP
+29/01: Sporting CP 1-1 Bologna
+19/09: Brest 2-1 Sturm Graz
+02/10: Sturm Graz 0-1 Club Brugge
+22/10: Sturm Graz 0-2 Sporting CP
+05/11: Borussia Dortmund 1-0 Sturm Graz
+27/11: Sturm Graz 1-0 Girona
+11/12: Lille 3-2 Sturm Graz
+21/01: Atalanta 5-0 Sturm Graz
+29/01: Sturm Graz 1-0 Leipzig
+17/09: Real Madrid 3-1 Stuttgart
+01/10: Stuttgart 1-1 Sparta Praha
+22/10: Juventus 0-1 Stuttgart
+06/11: Stuttgart 0-2 Atalanta
+27/11: Crvena Zvezda 5-1 Stuttgart
+11/12: Stuttgart 5-1 Young Boys
+21/01: Slovan Bratislava 1-3 Stuttgart
+29/01: Stuttgart 1-4 Paris Saint-Germain
+17/09: Young Boys 0-3 Aston Villa
+01/10: Barcelona 5-0 Young Boys
+23/10: Young Boys 0-1 Inter
+06/11: Shakhtar Donetsk 2-1 Young Boys
+26/11: Young Boys 1-6 Atalanta
+11/12: Stuttgart 5-1 Young Boys
+22/01: Celtic 1-0 Young Boys
+29/01: Young Boys 0-1 Crvena Zvezda
