@@ -1,0 +1,34 @@
+,name,Minutes played,Matches played,Goals,Assists,Distance covered (km),Top speed (km/h),Corners taken,Offsides,Dribbles,Total attempts,Attempts on target,Attempts off target,Blocked,Balls recovered,Tackles,Tackles won,Tackles lost,Clearances attempted,Fouls committed,Fouls suffered,Yellow cards,Red cards,Passing accuracy (%),Passes attempted,Passes completed,Crossing accuracy (%),Crosses attempted,Crosses completed,Free-kicks taken,Saves,Goals conceded,Saves from penalties,Clean sheets,Punches made,Right foot,Left foot,Head,Other,Goals inside area,Goals outside area,Penalties scored,team,position
+0,Rüdiger,708,8,2,0,75.6,32.8,0,1,0,5,2,2,1,39,7,2,5,32,9,3,2,0,93.4,454,424,0,0,0,13,0,0,0,2,0,0,0,2,0,2,0,0,Real Madrid,Defender
+1,Valverde,675,8,0,1,78.4,35.2,0,0,3,7,0,4,3,37,14,7,7,12,7,1,1,0,93,380,351,0,3,0,10,0,0,0,1,0,0,0,0,0,0,0,0,Real Madrid,Midfielder
+2,Bellingham,656,8,2,2,75.5,33.9,0,2,24,12,4,4,4,14,29,13,16,7,12,18,2,0,90,355,319,50,2,1,4,0,0,0,2,0,1,1,0,0,2,0,0,Real Madrid,Midfielder
+3,Mbappé,590,8,3,2,57.3,35.7,2,3,22,33,16,9,8,4,4,2,2,0,4,5,0,0,82,170,141,16.7,12,2,1,0,0,0,4,0,2,1,0,0,3,0,0,Real Madrid,Forward
+4,Vinícius Júnior,540,6,7,1,58.2,35.5,8,0,47,22,13,8,1,10,5,0,5,0,12,7,3,0,75,207,155,31.6,19,6,1,0,0,0,0,0,3,4,0,0,6,1,1,Real Madrid,Forward
+5,Courtois,540,6,0,0,27.8,25.7,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,82.7,223,185,0,0,0,13,30,8,0,1,2,0,0,0,0,0,0,0,Real Madrid,Goalkeeper
+6,Mendy,535,7,0,0,57.7,33.5,0,0,3,0,0,0,0,15,5,2,3,5,6,3,1,0,94.3,288,272,0,4,0,7,0,0,0,1,0,0,0,0,0,0,0,0,Real Madrid,Defender
+7,Modrić,451,8,0,2,53.1,31.1,19,0,6,2,1,1,0,19,12,2,10,3,6,2,2,0,87.4,419,387,4.2,24,1,11,0,0,0,4,0,0,0,0,0,0,0,0,Real Madrid,Midfielder
+8,Lucas Vázquez,432,6,1,1,55,32.4,1,0,5,3,3,0,0,16,8,4,4,7,4,5,3,0,88.5,268,234,27.3,11,3,3,0,0,0,2,0,1,0,0,0,1,0,0,Real Madrid,Midfielder
+9,Rodrygo,392,6,4,1,47,33.1,14,0,16,16,7,2,7,5,2,0,2,2,3,2,0,0,89.5,195,176,23.5,17,4,2,0,0,0,3,0,4,0,0,0,4,0,0,Real Madrid,Forward
+10,Tchouaméni,382,6,0,0,45.6,32.2,0,0,1,4,2,1,1,20,9,2,7,15,5,3,2,0,95,239,226,0,1,0,11,0,0,0,2,0,0,0,0,0,0,0,0,Real Madrid,Midfielder
+11,Brahim Díaz,310,5,0,1,37.9,32.3,0,1,9,6,3,2,1,9,4,0,4,1,3,9,0,0,85.6,147,123,0,4,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Real Madrid,Midfielder
+12,Éder Militão,282,4,0,0,30,34.2,0,0,1,4,0,4,0,10,3,1,2,7,3,2,2,0,91.8,183,168,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,Real Madrid,Defender
+13,Ceballos,218,6,0,0,29.5,30.2,1,0,1,0,0,0,0,16,8,3,5,1,3,5,1,0,97.2,204,199,0,2,0,6,0,0,0,3,0,0,0,0,0,0,0,0,Real Madrid,Midfielder
+14,Raúl Asencio,194,4,0,0,21.4,34.7,0,0,2,0,0,0,0,9,3,3,0,8,1,3,1,0,60.5,100,92,0,1,0,5,0,0,0,2,0,0,0,0,0,0,0,0,Real Madrid,Defender
+15,Fran García,187,5,0,0,25.1,33.3,0,0,1,0,0,0,0,7,4,1,3,8,2,0,0,0,85.6,84,76,33.3,6,2,0,0,0,0,3,0,0,0,0,0,0,0,0,Real Madrid,Defender
+16,Camavinga,187,4,0,0,23.1,34.9,0,0,5,0,0,0,0,19,15,9,6,5,6,6,2,0,94.3,112,106,50,2,1,3,0,0,0,1,0,0,0,0,0,0,0,0,Real Madrid,Midfielder
+17,Carvajal,180,2,0,0,21.4,32.2,0,0,0,1,0,1,0,10,3,2,1,3,2,3,0,0,86,115,99,9.1,11,1,3,0,0,0,0,0,0,0,0,0,0,0,0,Real Madrid,Defender
+18,Lunin,180,2,0,0,10.1,25.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95.5,34,32,0,0,0,0,8,4,0,0,1,0,0,0,0,0,0,0,Real Madrid,Goalkeeper
+19,Arda Güler,142,7,0,0,22.3,30.8,7,0,3,7,1,4,2,5,1,0,1,1,1,4,0,0,89.7,107,94,44.5,9,4,1,0,0,0,5,0,0,0,0,0,0,0,0,Real Madrid,Midfielder
+20,Endrick,99,5,1,0,13.8,33.3,0,0,1,5,2,3,0,4,5,2,3,0,4,1,2,0,89.6,24,20,0,0,0,0,0,0,0,3,0,0,1,0,0,0,1,0,Real Madrid,Forward
+21,Alaba,34,2,0,0,4.7,24.1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,98.5,44,43,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Real Madrid,Defender
+22,Ramón,12,1,0,0,1.7,30.4,0,0,0,1,0,0,1,2,0,0,0,1,1,0,0,0,100,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Real Madrid,Defender
+23,Diego Aguado,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Defender
+24,Daniel Yañez,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Forward
+25,Hugo De Llanos,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Midfielder
+26,Chema Andrés,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Midfielder
+27,González,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Goalkeeper
+28,Pol Fortuny,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Midfielder
+29,Youssef,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Defender
+30,Gonzalo,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Forward
+31,Sergio Mestre,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Goalkeeper
+32,Vallejo,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Real Madrid,Defender
