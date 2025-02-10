@@ -1,0 +1,30 @@
+,name,Minutes played,Matches played,Goals,Assists,Distance covered (km),Top speed (km/h),Corners taken,Offsides,Dribbles,Total attempts,Attempts on target,Attempts off target,Blocked,Balls recovered,Tackles,Tackles won,Tackles lost,Clearances attempted,Fouls committed,Fouls suffered,Yellow cards,Red cards,Passing accuracy (%),Passes attempted,Passes completed,Crossing accuracy (%),Crosses attempted,Crosses completed,Free-kicks taken,Saves,Goals conceded,Saves from penalties,Clean sheets,Punches made,Right foot,Left foot,Head,Other,Goals inside area,Goals outside area,Penalties scored,team,position
+0,Schlotterbeck,720,8,0,1,81.3,32.9,0,1,2,6,5,1,0,46,19,12,7,23,4,7,0,0,90.6,699,638,50,2,1,18,0,0,0,3,0,0,0,0,0,0,0,0,B. Dortmund,Defender
+1,Kobel,630,7,0,0,39.9,25.5,0,0,1,0,0,0,0,0,0,0,0,10,0,0,0,0,83.2,248,206,0,0,0,8,23,12,0,2,2,0,0,0,0,0,0,0,B. Dortmund,Goalkeeper
+2,Gittens,570,8,4,0,69.5,33.6,0,2,39,15,6,5,4,11,2,0,2,1,3,11,0,0,87.3,174,150,30.8,13,4,0,0,0,0,4,0,3,1,0,0,4,0,0,B. Dortmund,Midfielder
+3,Guirassy,565,8,9,2,64,32.1,0,4,4,23,14,8,1,5,1,0,1,6,5,12,0,0,84.1,139,117,0,0,0,0,0,0,0,3,0,7,1,0,1,7,2,4,B. Dortmund,Forward
+4,Bensebaini,537,7,2,0,61.8,33.2,1,0,7,7,3,3,1,37,23,8,15,16,10,4,3,0,87,317,280,33.3,9,3,8,0,0,0,4,0,0,1,1,0,2,0,0,B. Dortmund,Defender
+5,Ryerson,526,7,0,0,65.3,32.1,5,0,7,2,1,0,1,24,13,1,12,11,9,3,2,0,87.4,240,212,35.7,14,5,6,0,0,0,3,0,0,0,0,0,0,0,0,B. Dortmund,Defender
+6,Can,490,7,1,1,59.1,33.5,0,0,7,1,1,0,0,30,11,3,8,11,9,7,0,0,89.7,363,334,0,0,0,18,0,0,0,2,0,1,0,0,0,1,0,1,B. Dortmund,Defender
+7,F. Nmecha,488,7,1,1,62.7,34.7,0,0,7,6,2,2,2,26,6,1,5,8,7,13,1,0,88,285,261,0,1,0,4,0,0,0,4,0,1,0,0,0,1,0,0,B. Dortmund,Midfielder
+8,Sabitzer,486,7,0,0,64.6,32.4,2,1,1,12,1,6,5,24,8,3,5,6,4,3,1,0,85.9,198,171,14.3,7,1,7,0,0,0,4,0,0,0,0,0,0,0,0,B. Dortmund,Midfielder
+9,Gross,473,8,0,2,66.7,29.7,31,0,2,2,1,0,1,25,3,0,3,7,3,1,1,0,84,407,360,34.7,49,17,12,0,0,0,3,0,0,0,0,0,0,0,0,B. Dortmund,Midfielder
+10,Brandt,457,7,0,2,59.6,33.7,8,0,3,7,1,4,2,12,7,2,5,1,5,1,0,0,81.6,263,226,28.6,14,4,5,0,0,0,4,0,0,0,0,0,0,0,0,B. Dortmund,Midfielder
+11,Anton,337,6,0,0,42,32.8,0,0,0,1,0,1,0,21,1,0,1,18,2,6,0,0,93.3,291,265,0,1,0,8,0,0,0,3,0,0,0,0,0,0,0,0,B. Dortmund,Defender
+12,Beier,329,6,0,0,41.7,34.1,0,2,3,5,2,1,2,7,5,0,5,0,9,1,2,0,74.7,72,54,66.7,3,2,0,0,0,0,4,0,0,0,0,0,0,0,0,B. Dortmund,Forward
+13,Malen,238,5,2,1,28.9,31.8,0,4,7,9,5,3,1,5,0,0,0,2,2,6,1,0,80.8,60,49,50,4,2,0,0,0,0,3,0,2,0,0,0,2,0,0,B. Dortmund,Forward
+14,Duranville,234,5,0,0,28.2,34.1,0,1,18,3,2,1,0,4,6,0,6,2,7,4,0,0,82.2,51,41,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,B. Dortmund,Midfielder
+15,Adeyemi,226,4,3,1,27.6,35.3,0,0,10,7,5,2,0,8,3,2,1,0,3,4,1,0,68,81,58,0,3,0,0,0,0,0,1,0,0,3,0,0,2,1,0,B. Dortmund,Forward
+16,Reyna,192,4,0,1,26.3,26.9,0,0,1,2,1,0,1,6,2,0,2,1,2,4,0,0,84.3,74,62,100,1,1,1,0,0,0,3,0,0,0,0,0,0,0,0,B. Dortmund,Midfielder
+17,Süle,180,2,0,0,20.1,30.7,0,0,0,0,0,0,0,10,2,0,2,5,0,0,0,0,95,168,161,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,B. Dortmund,Defender
+18,Yan Couto,147,6,0,0,18.6,32.1,0,0,1,1,0,1,0,8,1,1,0,1,3,1,2,0,80.5,103,90,60,5,3,1,0,0,0,4,0,0,0,0,0,0,0,0,B. Dortmund,Defender
+19,Meyer,90,1,0,0,6.8,21.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,48,41,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,B. Dortmund,Goalkeeper
+20,Campbell,14,1,0,0,2.5,33.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,B. Dortmund,Midfielder
+21,Azhil,1,1,0,0,0.9,27.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,B. Dortmund,Midfielder
+22,Benkara,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,B. Dortmund,Defender
+23,Meiser,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,B. Dortmund,Defender
+24,Wätjen,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,B. Dortmund,Midfielder
+25,Kabar,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,B. Dortmund,Defender
+26,Mane,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,B. Dortmund,Defender
+27,Ostrzinski,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,B. Dortmund,Goalkeeper
+28,Lotka,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,B. Dortmund,Goalkeeper
