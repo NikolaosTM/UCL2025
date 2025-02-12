@@ -1,0 +1,31 @@
+name,Minutes played,Matches played,Goals,Assists,Distance covered (km),Top speed (km/h),Corners taken,Offsides,Dribbles,Total attempts,Attempts on target,Attempts off target,Blocked,Balls recovered,Tackles,Tackles won,Tackles lost,Clearances attempted,Fouls committed,Fouls suffered,Yellow cards,Red cards,Passing accuracy (%),Passes attempted,Passes completed,Crossing accuracy (%),Crosses attempted,Crosses completed,Free-kicks taken,Saves,Goals conceded,Saves from penalties,Clean sheets,Punches made,Right foot,Left foot,Head,Other,Goals inside area,Goals outside area,Penalties scored,team,position
+Kimmich,720,8,0,4,101.5,32.2,4,41,0,10,4,2,4,31,9,2,7,2,3,4,1,0,90.8,759,693,24.6,61,15,24,0,0,0,2,0,0,0,0,0,0,0,0,Bayern München,Midfielder
+Kim,665,8,1,0,80.5,34.3,0,0,0,3,1,2,0,63,7,6,1,18,4,0,0,0,96.4,657,636,0,3,0,5,0,0,0,2,0,0,0,1,0,1,0,0,Bayern München,Defender
+Olise,539,8,4,0,73.1,31.6,0,20,0,25,7,8,10,17,8,2,6,1,7,8,1,0,85.8,385,331,16.7,36,6,3,0,0,0,3,0,0,3,1,0,4,0,1,Bayern München,Midfielder
+Musiala,510,8,2,4,63.5,34.1,4,2,2,25,10,4,11,22,9,5,4,0,3,12,1,0,81.4,297,244,25,4,1,2,0,0,0,3,0,1,0,1,0,2,0,0,Bayern München,Midfielder
+Sané,382,8,1,0,46.9,34.4,0,3,0,21,9,6,6,9,3,0,3,0,5,5,2,0,87,249,213,7.7,13,1,1,0,0,0,4,0,0,1,0,0,0,1,0,Bayern München,Midfielder
+Kane,630,7,6,1,78.5,30.4,1,0,4,29,15,9,5,6,3,1,2,2,2,8,0,0,79.2,179,142,25,4,1,0,0,0,0,2,0,5,0,1,0,6,0,3,Bayern München,Forward
+Upamecano,630,7,0,0,77.8,34.3,0,0,0,5,1,2,2,50,12,8,4,8,6,0,1,0,94,606,570,0,2,0,7,0,0,0,2,0,0,0,0,0,0,0,0,Bayern München,Defender
+Neuer,585,7,0,0,41.6,25.6,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,90.9,281,250,0,0,0,8,6,9,0,3,0,0,0,0,0,0,0,0,Bayern München,Goalkeeper
+Gnabry,386,7,0,2,48.3,33.4,2,3,7,11,7,2,2,9,9,2,7,1,5,2,2,0,84.3,202,175,8.3,12,1,0,0,0,0,2,0,0,0,0,0,0,0,0,Bayern München,Forward
+Müller,254,7,2,1,33.6,31.7,1,0,0,6,2,3,1,1,5,1,4,2,5,0,1,0,77.7,127,98,28.6,14,4,1,0,0,0,4,0,0,1,1,0,2,0,0,Bayern München,Forward
+Davies,494,6,0,0,61.4,35.6,0,0,1,4,1,0,3,25,7,4,3,8,2,10,0,0,92,351,321,9.1,11,1,8,0,0,0,2,0,0,0,0,0,0,0,0,Bayern München,Midfielder
+Laimer,405,6,1,0,51,34.5,0,0,1,4,1,3,0,23,11,5,6,1,9,5,0,0,91.8,258,234,50,2,1,5,0,0,0,3,0,1,0,0,0,1,0,0,Bayern München,Midfielder
+Goretzka,313,6,1,0,42.2,31.6,0,0,0,9,3,3,3,14,12,7,5,2,4,3,3,0,91.5,239,218,66.7,3,2,3,0,0,0,4,0,0,0,1,0,1,0,0,Bayern München,Midfielder
+Coman,256,6,1,0,33.4,35.4,0,0,0,11,4,7,0,8,3,1,2,2,8,3,1,0,87,143,123,30,10,3,1,0,0,0,4,0,0,1,0,0,1,0,0,Bayern München,Forward
+Guerreiro,283,5,1,0,37.1,31.8,0,0,0,4,1,2,1,12,2,0,2,0,1,0,0,0,89.4,201,179,14.3,7,1,2,0,0,0,0,0,0,1,0,0,1,0,0,Bayern München,Defender
+Pavlović,284,4,0,0,42.5,30.6,0,0,0,0,0,0,0,21,10,6,4,0,8,1,0,0,93,323,301,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,0,Bayern München,Midfielder
+João Palhinha,165,3,0,0,22.5,30.1,0,0,0,4,0,2,2,7,12,5,7,0,1,0,0,0,93.7,133,126,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,Bayern München,Midfielder
+Tel,91,3,0,0,12.1,32.5,0,0,1,9,3,3,3,4,1,0,1,0,3,1,0,0,78.3,41,35,0,4,0,0,0,0,0,3,0,0,0,0,0,0,0,0,Bayern München,Forward
+Boey,87,2,0,0,12.3,31.4,0,0,0,1,1,0,0,5,0,0,0,0,1,1,0,0,89,69,61,50,2,1,1,0,0,0,2,0,0,0,0,0,0,0,0,Bayern München,Defender
+Dier,24,2,0,0,3.8,27.1,0,0,0,1,0,0,1,1,0,0,0,1,1,0,0,0,100,21,21,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,Bayern München,Defender
+Da. Peretz,90,1,0,0,6.7,26.9,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,80,30,24,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,Bayern München,Goalkeeper
+Stanišić,84,1,0,0,10.4,32.9,0,0,0,2,0,1,1,8,0,0,0,1,0,0,0,0,98,64,63,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Bayern München,Defender
+Ulreich,45,1,0,0,2.8,22.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100,14,14,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,Bayern München,Goalkeeper
+Ibrahimović,2,1,0,0,1,30.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Bayern München,Midfielder
+Aznou,2,1,0,0,0.9,24.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Bayern München,Defender
+Irankunda,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Bayern München,Forward
+Klanac,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Bayern München,Goalkeeper
+Schmitt,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Bayern München,Goalkeeper
+Aseko,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Bayern München,Midfielder
+Buchmann,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Bayern München,Defender

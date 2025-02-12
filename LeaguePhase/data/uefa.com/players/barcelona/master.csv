@@ -1,33 +1,33 @@
-,name,Minutes played,Matches played,Goals,Assists,Distance covered (km),Top speed (km/h),Corners taken,Offsides,Dribbles,Total attempts,Attempts on target,Attempts off target,Blocked,Balls recovered,Tackles,Tackles won,Tackles lost,Clearances attempted,Fouls committed,Fouls suffered,Yellow cards,Red cards,Passing accuracy (%),Passes attempted,Passes completed,Crossing accuracy (%),Crosses attempted,Crosses completed,Free-kicks taken,Saves,Goals conceded,Saves from penalties,Clean sheets,Punches made,Right foot,Left foot,Head,Other,Goals inside area,Goals outside area,Penalties scored,team,position
-0,Koundé,704,8,0,3,86,32.3,0,0,14,4,2,1,1,36,7,3,4,15,5,6,1,0,86.5,469,408,11.8,17,2,11,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Defender
-1,Raphinha,655,8,8,5,79.4,34.7,24,3,12,34,11,15,8,9,2,1,1,0,2,6,0,0,78.1,306,243,29,31,9,17,0,0,0,2,0,1,6,1,0,5,3,0,Barcelona,Forward
-2,Lewandowski,638,8,9,0,71.3,32.1,0,1,6,22,10,6,6,6,4,3,1,2,9,15,0,0,76,137,104,0,2,0,0,0,0,0,2,0,6,2,0,1,9,0,3,Barcelona,Forward
-3,Pedri,637,8,0,2,88.6,31.4,7,0,16,3,1,1,1,29,5,2,3,2,2,9,0,0,87.4,468,412,44.5,9,4,14,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Midfielder
-4,Casadó,611,8,0,2,81.2,29.9,0,0,3,3,1,1,1,39,33,19,14,5,11,9,1,0,91.9,483,446,50,2,1,16,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Midfielder
-5,Yamal,597,7,2,2,63.2,31.8,2,1,51,24,12,5,7,9,6,3,3,2,8,14,0,0,80.4,249,201,10,10,1,3,0,0,0,1,0,0,2,0,0,1,1,0,Barcelona,Forward
-6,Cubarsí,591,8,0,0,70.2,31.8,0,0,2,1,0,0,1,27,6,4,2,13,8,3,1,0,94.1,572,543,0,0,0,14,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Defender
-7,Balde,534,7,0,2,63.6,33.2,0,0,22,2,0,1,1,19,5,4,1,4,2,5,1,0,89,254,234,11.1,9,1,4,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Defender
-8,Iñigo Martínez,534,6,2,1,62.4,31.4,0,0,0,3,2,1,0,27,5,1,4,17,5,3,1,0,93,481,451,0,0,0,25,0,0,0,2,0,0,0,2,0,2,0,0,Barcelona,Defender
-9,Iñaki Peña,450,5,0,0,31,25.9,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,88.6,157,138,0,0,0,10,3,5,0,2,4,0,0,0,0,0,0,0,Barcelona,Goalkeeper
-10,F. de Jong,253,7,0,0,34.8,31.2,0,0,0,3,0,0,3,17,11,4,7,0,6,3,1,0,87.3,197,183,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Midfielder
-11,Fermín López,239,6,1,3,33,31.8,1,0,10,9,6,3,0,3,3,1,2,3,4,3,1,0,82,84,70,0,2,0,2,0,0,0,1,0,1,0,0,0,1,0,0,Barcelona,Forward
-12,Olmo,186,4,1,1,23.2,30.5,6,0,7,4,2,0,2,3,2,0,2,0,1,4,0,0,79.5,98,78,33.3,3,1,1,0,0,0,2,0,1,0,0,0,1,0,0,Barcelona,Forward
-13,Gavi,182,5,0,0,28.4,29.8,0,0,0,2,1,1,0,7,3,1,2,0,3,2,1,0,84.6,110,101,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Midfielder
-14,Gerard Martín,180,4,0,1,23.7,34,0,0,1,0,0,0,0,14,4,1,3,4,2,2,0,0,78.8,116,99,33.3,6,2,0,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Defender
-15,Ronald Araújo,180,2,1,0,20.7,33.2,0,0,0,3,1,1,1,10,1,1,0,10,1,0,0,0,97,179,172,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Barcelona,Defender
-16,Szczęsny,180,2,0,0,11.5,24.7,0,0,0,0,0,0,0,0,1,0,1,4,1,0,0,0,91,91,84,0,0,0,3,5,6,0,0,1,0,0,0,0,0,0,0,Barcelona,Goalkeeper
-17,Ferran Torres,158,5,2,1,20,32.1,1,0,4,7,5,1,1,2,2,0,2,1,1,1,1,0,70,49,42,0,3,0,0,0,0,0,3,0,1,1,0,0,2,0,0,Barcelona,Forward
-18,Eric García,97,4,1,0,12.4,29.9,0,0,1,1,1,0,0,2,2,0,2,2,2,2,0,1,67.8,87,77,0,0,0,5,0,0,0,3,0,0,0,1,0,0,1,0,Barcelona,Defender
-19,Ter Stegen,90,1,0,0,5.1,24.1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,70,54,38,0,0,0,3,6,2,0,0,2,0,0,0,0,0,0,0,Barcelona,Goalkeeper
-20,Fati,35,3,0,0,6.1,30,0,0,1,0,0,0,0,3,1,1,0,0,1,0,0,0,54,22,20,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Forward
-21,Dominguez,35,2,0,0,4.7,32.1,0,0,0,0,0,0,0,4,0,0,0,1,1,0,0,0,81.5,26,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Barcelona,Defender
-22,Pau Victor,34,5,0,0,6.4,32.8,0,0,0,0,0,0,0,4,2,0,2,1,2,0,0,0,73.6,15,13,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,Barcelona,Forward
-23,Fort,27,1,0,0,3.5,31.2,0,0,1,0,0,0,0,3,2,0,2,0,2,0,0,0,88,25,22,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,Barcelona,Defender
-24,Torre,20,2,0,0,3.5,28.3,0,0,0,1,0,1,0,1,2,0,2,0,1,0,0,0,93,10,9,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Midfielder
-25,Cuenca,6,1,0,0,1.3,33.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,9,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Barcelona,Defender
-26,A. Fernandez,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Midfielder
-27,G. Fernandez,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Midfielder
-28,Yaakobishvili,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Goalkeeper
-29,Kochen,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Goalkeeper
-30,Astralaga,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Goalkeeper
-31,Christensen,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Defender
+name,Minutes played,Matches played,Goals,Assists,Distance covered (km),Top speed (km/h),Corners taken,Offsides,Dribbles,Total attempts,Attempts on target,Attempts off target,Blocked,Balls recovered,Tackles,Tackles won,Tackles lost,Clearances attempted,Fouls committed,Fouls suffered,Yellow cards,Red cards,Passing accuracy (%),Passes attempted,Passes completed,Crossing accuracy (%),Crosses attempted,Crosses completed,Free-kicks taken,Saves,Goals conceded,Saves from penalties,Clean sheets,Punches made,Right foot,Left foot,Head,Other,Goals inside area,Goals outside area,Penalties scored,team,position
+Koundé,704,8,0,3,86,32.3,0,0,14,4,2,1,1,36,7,3,4,15,5,6,1,0,86.5,469,408,11.8,17,2,11,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Defender
+Raphinha,655,8,8,5,79.4,34.7,24,3,12,34,11,15,8,9,2,1,1,0,2,6,0,0,78.1,306,243,29,31,9,17,0,0,0,2,0,1,6,1,0,5,3,0,Barcelona,Forward
+Lewandowski,638,8,9,0,71.3,32.1,0,1,6,22,10,6,6,6,4,3,1,2,9,15,0,0,76,137,104,0,2,0,0,0,0,0,2,0,6,2,0,1,9,0,3,Barcelona,Forward
+Pedri,637,8,0,2,88.6,31.4,7,0,16,3,1,1,1,29,5,2,3,2,2,9,0,0,87.4,468,412,44.5,9,4,14,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Midfielder
+Casadó,611,8,0,2,81.2,29.9,0,0,3,3,1,1,1,39,33,19,14,5,11,9,1,0,91.9,483,446,50,2,1,16,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Midfielder
+Yamal,597,7,2,2,63.2,31.8,2,1,51,24,12,5,7,9,6,3,3,2,8,14,0,0,80.4,249,201,10,10,1,3,0,0,0,1,0,0,2,0,0,1,1,0,Barcelona,Forward
+Cubarsí,591,8,0,0,70.2,31.8,0,0,2,1,0,0,1,27,6,4,2,13,8,3,1,0,94.1,572,543,0,0,0,14,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Defender
+Balde,534,7,0,2,63.6,33.2,0,0,22,2,0,1,1,19,5,4,1,4,2,5,1,0,89,254,234,11.1,9,1,4,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Defender
+Iñigo Martínez,534,6,2,1,62.4,31.4,0,0,0,3,2,1,0,27,5,1,4,17,5,3,1,0,93,481,451,0,0,0,25,0,0,0,2,0,0,0,2,0,2,0,0,Barcelona,Defender
+Iñaki Peña,450,5,0,0,31,25.9,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,88.6,157,138,0,0,0,10,3,5,0,2,4,0,0,0,0,0,0,0,Barcelona,Goalkeeper
+F. de Jong,253,7,0,0,34.8,31.2,0,0,0,3,0,0,3,17,11,4,7,0,6,3,1,0,87.3,197,183,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Midfielder
+Fermín López,239,6,1,3,33,31.8,1,0,10,9,6,3,0,3,3,1,2,3,4,3,1,0,82,84,70,0,2,0,2,0,0,0,1,0,1,0,0,0,1,0,0,Barcelona,Forward
+Olmo,186,4,1,1,23.2,30.5,6,0,7,4,2,0,2,3,2,0,2,0,1,4,0,0,79.5,98,78,33.3,3,1,1,0,0,0,2,0,1,0,0,0,1,0,0,Barcelona,Forward
+Gavi,182,5,0,0,28.4,29.8,0,0,0,2,1,1,0,7,3,1,2,0,3,2,1,0,84.6,110,101,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Midfielder
+Gerard Martín,180,4,0,1,23.7,34,0,0,1,0,0,0,0,14,4,1,3,4,2,2,0,0,78.8,116,99,33.3,6,2,0,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Defender
+Ronald Araújo,180,2,1,0,20.7,33.2,0,0,0,3,1,1,1,10,1,1,0,10,1,0,0,0,97,179,172,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,Barcelona,Defender
+Szczęsny,180,2,0,0,11.5,24.7,0,0,0,0,0,0,0,0,1,0,1,4,1,0,0,0,91,91,84,0,0,0,3,5,6,0,0,1,0,0,0,0,0,0,0,Barcelona,Goalkeeper
+Ferran Torres,158,5,2,1,20,32.1,1,0,4,7,5,1,1,2,2,0,2,1,1,1,1,0,70,49,42,0,3,0,0,0,0,0,3,0,1,1,0,0,2,0,0,Barcelona,Forward
+Eric García,97,4,1,0,12.4,29.9,0,0,1,1,1,0,0,2,2,0,2,2,2,2,0,1,67.8,87,77,0,0,0,5,0,0,0,3,0,0,0,1,0,0,1,0,Barcelona,Defender
+Ter Stegen,90,1,0,0,5.1,24.1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,70,54,38,0,0,0,3,6,2,0,0,2,0,0,0,0,0,0,0,Barcelona,Goalkeeper
+Fati,35,3,0,0,6.1,30,0,0,1,0,0,0,0,3,1,1,0,0,1,0,0,0,54,22,20,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,Barcelona,Forward
+Dominguez,35,2,0,0,4.7,32.1,0,0,0,0,0,0,0,4,0,0,0,1,1,0,0,0,81.5,26,24,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Barcelona,Defender
+Pau Victor,34,5,0,0,6.4,32.8,0,0,0,0,0,0,0,4,2,0,2,1,2,0,0,0,73.6,15,13,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,Barcelona,Forward
+Fort,27,1,0,0,3.5,31.2,0,0,1,0,0,0,0,3,2,0,2,0,2,0,0,0,88,25,22,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,Barcelona,Defender
+Torre,20,2,0,0,3.5,28.3,0,0,0,1,0,1,0,1,2,0,2,0,1,0,0,0,93,10,9,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,Barcelona,Midfielder
+Cuenca,6,1,0,0,1.3,33.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,9,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Barcelona,Defender
+A. Fernandez,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Midfielder
+G. Fernandez,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Midfielder
+Yaakobishvili,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Goalkeeper
+Kochen,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Goalkeeper
+Astralaga,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Goalkeeper
+Christensen,,,,,,,,,,,,,,,,,,,,,0,0,,,,0,,,,,,,,,,,,,,,,Barcelona,Defender
